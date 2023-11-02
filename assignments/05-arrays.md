@@ -11,8 +11,8 @@
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) ✅
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) ✅
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) ✅
-9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)v✅
-10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)v✅
+9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) ✅
+10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) ✅
 11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) ✅
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) ✅
 13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) ✅
@@ -24,7 +24,7 @@
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) ✅
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) ✅
 21. [Two Sum](https://leetcode.com/problems/two-sum/) ✅
-22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) ✅
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) ✅
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
