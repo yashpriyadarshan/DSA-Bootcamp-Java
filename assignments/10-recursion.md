@@ -10,7 +10,7 @@
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode` ✅
 - [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
-- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
+- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode` ✅
 - [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
 - [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
 - [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
@@ -20,7 +20,7 @@
 - [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
 - [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
 - [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
-- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
+- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode` ✅
 - [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
 - [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
 - Write a recursive function for given n and a to determine x:
